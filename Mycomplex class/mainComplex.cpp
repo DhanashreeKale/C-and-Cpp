@@ -45,7 +45,8 @@ int main()
     return 0;
 }
 
-/*OUTPUT
+/* OUTPUT
+g++ mainComplex.cpp complexOperations.cpp -o complex
 Number 1:Enter Real part: 4
 Number 1:Enter Imaginary part: 5
 Number 2:Enter Real part: 3

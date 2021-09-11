@@ -44,17 +44,3 @@ int main()
     result.norm(obj1);
     return 0;
 }
-
-/* OUTPUT
-Number 1:Enter Real part: 4
-Number 1:Enter Imaginary part: 5
-Number 2:Enter Real part: 3
-Number 2:Enter Imaginary part: 2
-First Complex Number:4+5i
-Second Complex Number:3+2i
-First + Second=7+7i
-First - Second=1+3i
-First * Second=2+23i
-~Number =4+-5i
-Norm = 4.24
-*/
